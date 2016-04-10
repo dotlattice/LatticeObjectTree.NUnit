@@ -35,8 +35,8 @@
     <DocumentationFile>bin\Release\LatticeObjectTree.NUnit.XML</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LatticeObjectTree, Version=0.9.4.2, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\LatticeObjectTree.0.9.4.2\lib\net40-Client\LatticeObjectTree.dll</HintPath>
+    <Reference Include="LatticeObjectTree, Version=0.9.5.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\LatticeObjectTree.0.9.5.4\lib\net40-Client\LatticeObjectTree.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="nunit.framework, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
